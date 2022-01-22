@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+
+.panda-slider {
+    min-height: 455px;
+    background-color: #FEEAE9;
+    border-radius: 5px;
+}
+
+.slider-text {
+    padding-left: 130px;
+}
+
+.slider-img img{
+    max-width: 380px;
+}
+
+.slider-img {
+    padding-right: 40px;
+}
+
+.panda-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.btn-icon {
+    margin-left: 8px;
+}
